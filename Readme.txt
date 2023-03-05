@@ -22,5 +22,5 @@ https://www.git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%
 환경변수 설정
 https://blog.naver.com/haven2216/222666760484
 
-git 주소... daikill5963@gmail.com	@kkyssh13GI
-git@github.com:TODO-FOR-DAI/02_company.git
+git 주소... daikill5963@gmail.com
+https://github.com/TODO-FOR-DAI/00_init_test.git
